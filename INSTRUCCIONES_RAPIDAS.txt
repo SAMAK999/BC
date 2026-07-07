@@ -1,0 +1,19 @@
+INSTRUCCIONES RÁPIDAS
+
+1. Descomprime el ZIP.
+2. Sube estos archivos a un repositorio de GitHub:
+   - index.html
+   - style.css
+   - app.js
+   - config.js
+   - carpeta data completa
+   - README.md
+3. Activa GitHub Pages:
+   Settings > Pages > Deploy from branch > main > root.
+4. Abre la URL publicada.
+5. Para actualizar datos diario, cambia únicamente Google Sheets.
+
+IMPORTANTE:
+- No abras index.html directo desde tu computadora, porque el navegador puede bloquear la carga del GeoJSON.
+- Debe ejecutarse en GitHub Pages o en un servidor local.
+- El enlace CSV está configurado en config.js.
